@@ -1,2 +1,2 @@
 # Pathalogy
-#### App link :  https://ritwik-pathlab.herokuapp.com/
+#### App link :   https://ritwik-pathlab2.herokuapp.com/
